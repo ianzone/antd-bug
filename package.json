@@ -6,6 +6,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@rapideditor/country-coder": "^5.3.1",
+    "@twemoji/api": "^15.1.0",
+    "antd": "^5.23.3",
+    "libphonenumber-js": "^1.11.19",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
